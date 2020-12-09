@@ -17,4 +17,4 @@ pkg_check_modules(GSTLIBS REQUIRED
         gstreamer-check-1.0
 )
 
-#add_subdirectory(lib)
+add_subdirectory(lib)
