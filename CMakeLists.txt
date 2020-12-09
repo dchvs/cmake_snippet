@@ -18,3 +18,4 @@ pkg_check_modules(GSTLIBS REQUIRED
 )
 
 add_subdirectory(lib)
+add_subdirectory(src)
